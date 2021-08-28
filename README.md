@@ -1,11 +1,17 @@
-<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<h2 align="center">👋 欢迎访问我的 GitHub</h2>
 <p align="center">
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/Linjc66"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-brightgreen" alt="juejin"></a>
 </p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/linjunc"><img src="https://ljcimg.oss-cn-beijing.aliyuncs.com/img/48ad5deea2addfcd0f054a8857368a1.jpg" width="100%"  style="max-width:100%;"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="juejin"></p>
+
+<h4><p align="center">💞 前端</p></h3>
+<h4><p align="center">💖 大二 @GDUT</p></h4>
+<h4><p align="center">💟 Base: 广州</p></h4>
+
+
 
 <p align="center">
 	<a href="https://github.com/linjunc">
