@@ -18,9 +18,6 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical" width="45%" alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical" style="max-width:100%;">
 	</a>
 	<a href="https://github.com/linjunc">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjunc&layout=compact" width="45%" alt="savuer's github top skills" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjunc&layout=compact" style="max-width:100%;">
-	</a>
-	<a href="https://github.com/linjunc">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=linjunc&theme=neon-dark" width="45%" alt="linjunc's github readme streak stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=linjunc&theme=neon-dark" style="max-width:100%;">
 	</a>
 </p>
