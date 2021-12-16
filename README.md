@@ -1,4 +1,5 @@
-<h2 align="center">你好呀，我叫小丞同学！👋 欢迎访问我的 GitHub</h2>
+🖐 你好呀，我叫小丞同学！
+👋 欢迎访问我的 GitHub！
 <p align="center">
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/Linjc66"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
