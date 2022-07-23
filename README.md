@@ -35,7 +35,7 @@
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![ESBuild](https://img.shields.io/badge/-ESBuild-%236C4A3F?style=flat-square&logo=esbuild&logoColor=ffffff)
+![ESBuild](https://img.shields.io/badge/-ESBuild-f8d047?style=flat-square&logo=esbuild&logoColor=ffffff&color=f8d047)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
