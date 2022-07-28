@@ -6,7 +6,7 @@
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-black" alt="github"></a>
   <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-fe7300" alt="csdn"></a>
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-blue" alt="juejin"></a>
-	<img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
+  <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
 </p>
 
 
