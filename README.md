@@ -3,10 +3,10 @@
 🤝 𝑰 𝒂𝒎 𝒂 𝑾𝒆𝒃 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂
 
 <p>
-  <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-black" alt="github"></a>
   <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-fe7300" alt="csdn"></a>
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-blue" alt="juejin"></a>
   <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
+   <a href="https://visitor-badge.glitch.me/badge?page_id=linjunc&left_color=green&right_color=red"><img src="https://visitor-badge.glitch.me/badge?page_id=linjunc&right_color=red" alt="csdn"></a>
 </p>
 
 
