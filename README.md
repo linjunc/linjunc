@@ -37,6 +37,9 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-	
+**Commit Graph**
+
+![](https://activity-graph.herokuapp.com/graph?username=linjunc&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
 |<a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical" style="max-width:100%;"></a>|<a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjunc&layout=compact&theme=neon-dark&hide_border=true" alt="linjunc's github readme streak stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjunc&layout=compact&theme=neon-dark&hide_border=true" style="max-width:100%;"></a>|
 | ------------- | ------------- |
