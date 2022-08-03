@@ -27,11 +27,12 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-node.js-%23282C34?style=flat-square&logo=node.js)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![ESBuild](https://img.shields.io/badge/-ESBuild-f8d047?style=flat-square&logo=esbuild&logoColor=ffffff&color=f8d047)
-![Vite](https://img.shields.io/badge/-Vite-%23386480?style=flat-square&logo=vite&logoColor=%23ffffff)
+![Vite](https://img.shields.io/badge/-Vite-%23823688?style=flat-square&logo=vite&logoColor=%23ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
