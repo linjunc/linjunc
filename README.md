@@ -3,10 +3,8 @@
 🤝 𝑰 𝒂𝒎 𝒂 𝑾𝒆𝒃 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂
 
 <p>
-  <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-fe7300" alt="csdn"></a>
-  <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-blue" alt="juejin"></a>
+  <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-小丞同学-blue" alt="juejin"></a>
   <img src="https://img.shields.io/badge/weChat-Ljc--10c-brightgreen" alt="juejin">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=linjunc&left_color=green&right_color=red"><img src="https://visitor-badge.glitch.me/badge?page_id=linjunc&right_color=red" alt="csdn"></a>
 </p>
 
 
@@ -44,5 +42,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=linjunc&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-|<a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical" style="max-width:100%;"></a>|<a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjunc&layout=compact&theme=neon-dark&hide_border=true" alt="linjunc's github readme streak stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjunc&layout=compact&theme=neon-dark&hide_border=true" style="max-width:100%;"></a>|
-| ------------- | ------------- |
+<a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical" style="max-width:100%;">
+</a>
+<br/>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=linjunc&left_color=green&right_color=red"><img src="https://visitor-badge.glitch.me/badge?page_id=linjunc&right_color=red" alt="csdn"></a>
