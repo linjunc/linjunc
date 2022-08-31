@@ -9,7 +9,7 @@
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 🏫 Sophomore at Guangdong University of Technology
+- 🏫 Student at Guangdong University of Technology in the third year
 - 🏠 Base Guangzhou, Internship at ByteDance since January 2022
 - 💼 Frontend enthusiasts are keen to write highquicily code
 - ❤️ I like to use typescript and react to develop front-end projects
