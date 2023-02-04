@@ -41,4 +41,4 @@
 <a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical" style="max-width:100%;">
 </a>
 <br/>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=linjunc&left_color=green&right_color=red"><img src="https://visitor-badge.glitch.me/badge?page_id=linjunc&right_color=red" alt="csdn"></a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=linjunc&left_color=green&right_color=red"><img src="https://visitor-badge.glitch.me/badge?page_id=linjunc&right_color=red" alt=""></a>
